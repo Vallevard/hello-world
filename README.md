@@ -1,1 +1,1 @@
-test
+Just another repository
